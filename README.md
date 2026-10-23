@@ -1,10 +1,4 @@
 <p align="center">
-   <img src="Main_Banner.gif" width="100%" alt="Main Banner">
-</p>
-
----
-
-<p align="center">
   <strong>Mico L. Nakase</strong> — <em>Full Stack & Generative AI Developer · Music Producer</em><br/>
   Junior AI Engineer at <strong>Prosperna Philippines</strong> · Producer & External VP at <strong>Truchorus Performance Company</strong>
 </p>
