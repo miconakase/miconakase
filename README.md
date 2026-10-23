@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://www.miconakase.xyz"><img src="banner.png" width="100%" alt="Mico Nakase — Full Stack & Gen AI Developer · Music Producer" /></a>
+</p>
+
+<p align="center">
   <strong>Mico L. Nakase</strong> — <em>Full Stack & Generative AI Developer · Music Producer</em><br/>
   Junior AI Engineer at <strong>Prosperna Philippines</strong> · Producer & External VP at <strong>Truchorus Performance Company</strong>
 </p>
